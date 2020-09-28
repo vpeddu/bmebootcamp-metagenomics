@@ -1,0 +1,22 @@
+file	reads aligned	percent of total reads 	
+bsubtilis_pb.ba	" 901,704.00 "	25.83	
+cneoformans_ont.ba	" 116,935.00 "	3.35	
+ecoli_pb.ba	" 531,245.00 "	15.22	
+efaecalis_pb.ba	" 649,559.00 "	18.60	
+k12_pb.ba	" 554,073.00 "	15.87	
+lfermentum_ontlumina.ba	" 777,255.00 "	22.26	
+lmonocytogenes_pb.ba	" 738,425.00 "	21.15	
+paeruginosa_pb.ba	" 344,018.00 "	9.85	
+saureus_pb.ba	" 702,244.00 "	20.11	
+scerevisiae_pb.ba	" 107,738.00 "	3.09	
+senterica_pb.ba	" 532,158.00 "	15.24	
+			
+			
+			
+			
+			
+total reads in fastq (straight from fastq) 			
+" 3,491,390.00 "			
+			
+Sum of total reads aligned	note: this means there were a bunch of multimappers (reads that hit multiple references) 		
+" 5,955,354.00 "			
